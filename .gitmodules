@@ -1,0 +1,6 @@
+[submodule "packages/subModueA"]
+	path = packages/subModueA
+	url = https://github.com/xyh0313/subModueA.git
+[submodule "packages/Utils"]
+	path = packages/Utils
+	url = https://github.com/xyh0313/Utils.git
